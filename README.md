@@ -19,3 +19,5 @@
 
 
 
+
+  ![Snake animation](https://github.com/cVitorAndrade/cVitorAndrade/blob/output/github-contribution-grid-snake.svg)
