@@ -7,7 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=cvitorandrade&label=Profile%20views&color=0e75b6&style=flat" alt="cvitorandrade" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvitorandrade&title=Commit,Experience,Repositories,Followers" alt="cvitorandrade" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=cvitorandrade&title=Commit,Experience,Repositories,Followers&theme=radical" alt="cvitorandrade" /></a> </p>
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=006437&background=FFFFFF00&random=true&width=800&lines=Committing+to+excellence%2C+one+line+of+code+at+a+time.)](https://git.io/typing-svg)
 
