@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **ReactJS**
 
-- 👨‍💻 All of my projects are available at [https://cvitorandrade-my-portfolio.vercel.app/](https://cvitorandrade-my-portfolio.vercel.app/)
+- 👨‍💻 All of my projects are available at [https://cvitorandrade.vercel.app/](https://cvitorandrade.vercel.app/)
 
 - 💬 Ask me about **Anything tech-related.**
 
