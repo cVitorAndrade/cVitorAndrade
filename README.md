@@ -11,7 +11,7 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=006437&background=FFFFFF00&random=true&width=800&lines=Committing+to+excellence%2C+one+line+of+code+at+a+time.)](https://git.io/typing-svg)
 
-- 🌱 I’m currently learning **ReactJS**
+- 🌱 I’m currently learning **Kotlin**
 
 - 👨‍💻 All of my projects are available at [https://cvitorandrade.vercel.app/](https://cvitorandrade.vercel.app/)
 
